@@ -1,10 +1,7 @@
 Archivo 2!!
-<<<<<<< HEAD
 Holaaaa!
-=======
 Juan Agrego esta linea porque le pinto
 
 
 
 Y tambien juan agrego esta mas abajo para molestar
->>>>>>> 17e13d9a2d4436d31f47bc5cbac9530dc2868896
